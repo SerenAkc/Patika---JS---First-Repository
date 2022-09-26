@@ -1,0 +1,39 @@
+body{
+    background-color: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.color-red{
+    color: red;
+    font-weight: 400;
+}
+
+.color-orange{
+    color: darkgoldenrod;
+    
+}
+
+.pill{
+    background-color: gray;
+}
+
+.rounded-pill{
+    color: white;
+    font-size: small;
+}
+
+
+
+.card-title{
+    color: blueviolet;
+}
+
+.card-img-top {
+    
+    height: 25vw;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+
